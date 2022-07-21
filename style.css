@@ -1,0 +1,32 @@
+h2{ 
+  font: 200;
+  font-style: oblique ;
+font-size: xx-large ;
+text-align: center;
+    }
+    p{
+      font-style: italic;
+        
+    }
+    #first{
+        color:rgb(10, 56, 105) ;
+    }
+    .sınıf1{ 
+        color: blue;
+    }
+    .sınıf2{
+      margin: top 40px;
+      margin-bottom: 40px;
+      margin-left: 50px;
+      border: 5px solid rgb(255, 0, 0) ;
+
+    }
+    #first2{
+        font: 200;
+    }
+    body{
+       background-color: rgb(255, 255, 255) ;
+       color: rgb(187, 23, 23);
+       
+
+    }
